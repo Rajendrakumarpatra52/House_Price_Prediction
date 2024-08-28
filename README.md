@@ -20,8 +20,4 @@ Model Deployment:
 ----------------
 Successfully trained and serialized models for deployment using Python's pickle library, facilitating model reuse and scalability.
 Documented and saved evaluation results in a structured CSV format for further analysis and reporting.
---------------------------
-Collaboration and Reporting:
----------------------------
-Worked collaboratively with team members to ensure alignment on model objectives and data handling practices.
-Communicated model performance and results to stakeholders through clear and concise reporting.
+----------------
